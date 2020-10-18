@@ -22,6 +22,6 @@ function themeSwitch() {
     localStorage.setItem("theme", "DARK");
   } else {
     document.body.classList.replace(Theme.DARK, Theme.LIGHT);
-    localStorage.removeItem("theme");
+    localStorage.setItem("theme", "LIGHT");
   }
 }
