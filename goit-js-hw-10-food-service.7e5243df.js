@@ -13,4 +13,4 @@ var e=document.querySelector("#theme-switch-toggle"),t={LIGHT:"light-theme",DARK
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/template-menu.js"),require("./js/theme-switch.js");
 },{"./js/template-menu.js":"pqV6","./js/theme-switch.js":"JIhF"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10-food-service.7e5243df.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/goit-js-hw-10-food-service.7e5243df.js.map
